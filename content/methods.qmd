@@ -1,0 +1,11 @@
+---
+title: "Additional Resources"
+editor: visual
+---
+
+
+github Repository containing code and data for all the figures in the manuscript: [ADD URL HERE](URL)
+
+Yost Lab Page: [http://yostlab.genetics.utah.edu/](http://yostlab.genetics.utah.edu/)
+
+Yandell Lab Page: [https://www.yandell-lab.org/](https://www.yandell-lab.org/)

@@ -1,0 +1,16 @@
+---
+title: "Paper intro page"
+editor: visual
+---
+
+Overview of paper
+
+Goal of paper
+
+Methods to achieve goal
+
+![insert caption](/images/img6.png)!
+
+![insert caption](/images/img5.png)!
+
+need to describe \^ image somewhere + methods/ filtering information

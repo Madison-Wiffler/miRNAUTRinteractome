@@ -1,0 +1,48 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Annotation of novel dynamic UTRs as functional targets of miRNAs during cardiac development
+paper name^ 
+ABSTRACT updated below
+add date!
+
+Small noncoding microRNAs (miRNAs) play essential roles in
+post-transcriptional gene regulation in development and disease,
+predominantly through interactions with mRNA untranslated regions
+(UTRs). However, the dynamic and tissue specific expression of miRNAs
+and target UTRs throughout development is poorly characterized. In order
+to understand the RNA regulatory events that drive cardiac
+morphogenesis, we captured a simultaneous small RNA and total RNA-seq
+time course in zebrafish hearts. We extracted de novo transcriptome
+annotation of dynamically changing UTRs, revealing over ten thousand
+significantly altered transcripts, with novel 5' and 3'UTRs for
+approximately half of all protein coding genes, and predicted regulatory
+miRNA/UTR interactions during development. In addition to miRNA and mRNA
+transcriptome resources for studies of RNA regulatory events in cardiac
+development and disease, this study provides a robust bioinformatic
+pipeline that should facilitate discovery of posttranscriptional
+regulatory networks in other developmental systems.
+
+
+##### graphical abstract -- include caption -- create new figure?
+
+Figure from the paper? 
+![graphical abstract like photo](/images/fig6B.png)
+
+add paper citation + link to paper
+
+### Authors
+---
+
+Names
+
+of 
+
+authors
+
+go
+
+here 

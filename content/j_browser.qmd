@@ -1,0 +1,29 @@
+---
+title: "Transcriptome Browser"
+editor: visual
+fig-cap-location: top
+---
+[JBrowse](http://weatherby.genetics.utah.edu/zebrafish/jbrowse1/?loc=5&tracks=36hpf_rep3_test%2C36hpf_rep4_test%2C48hpf_rep3_test%2C48hpf_rep4_test%2Cgenes%2Clawson&highlight=)
+
+
+![](/images/jbrowse.png)
+
+|
+
+Description of jBrowse: from paper --- change for website purpose  --- publicly available genome browser where the user can investigate evidence-driven annotation based on temporal and tissue-specific developmental transcriptomes, and compare to other existing annotations from zebrafish cardiac - hrs
+
+|
+|
+
+
+### How to use JBrowse 
+---
+
+include box on the left - and describe all the options
+
+then show an example of a gene tracks below
+
+this gene track is an image from Carson -- need to change as blurry -- from Carsons poster -- need to follow up on why JBrowse is down...
+
+![caption](/images/jbrowse_carson.png){width=900}
+
